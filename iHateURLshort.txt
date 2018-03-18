@@ -1,0 +1,194 @@
+######################################
+###
+### I Hate URL Shortener List
+### by: Pirat28
+###
+### URL list for the Pi-Hole 
+### 
+######################################
+
+#0 
+
+0cn.de
+1sta.com
+1url.com
+24ex.com
+2fear.com
+2freedom.com
+2hell.com
+2savvy.com
+2truth.com
+2tunes.com
+2tu.us
+
+# a
+
+2ya.com
+a.gg
+adf.ly
+adjix.com
+alturl.com
+antiblog.com
+atu.ca
+
+# b
+
+b23.ru
+bigbig.com
+bit.do
+bit.ly
+budurl.co
+buff.ly
+
+# c
+
+chilp.it
+cli.gs
+clickthru.ca
+clickmeter.com
+cort.as
+
+# d
+
+dealtap.com
+dfl8.me
+dy.fi
+digg.com
+doiop.com
+
+# e
+
+easyurl.net
+ebored.com
+echoz.com
+eepurl.com
+
+# f
+
+fff.to
+filetap.com
+firsturl.de
+firsturl.net
+fiurl.de
+funurl.com
+
+# g
+
+go.budurl.co
+goshrink.com
+goo.gl
+
+# h
+
+headplug.com
+hereweb.com
+hitart.com
+hurl.it
+
+# i
+
+idug.net
+is.gd
+iscool.net
+iterasi.net
+
+# j
+
+just.as
+
+# k
+
+korta.nu
+kurzelinks.de
+
+# l
+
+linkbee.com
+linkbun.ch
+
+# m
+
+mcaf.ee
+metamark.net
+migre.me
+miniurl.fr
+mirrorz.com
+moourl.com
+
+# n
+
+nsfw.in
+
+# o
+
+ogy,de
+ow.ly
+
+# p
+
+pasted.co
+p.chilp.it
+po.st
+preview.tinyurl.com
+
+# q
+
+# r
+
+readthis.ca
+redirects.ca
+ri.ms
+
+# s
+
+s.chilp.it
+starturl.com
+shrt.st
+shorturl.com
+shorl.com
+simurl.com
+sn.im
+snipr.com
+snipurl.com
+
+# t
+
+t1p.de
+thrdl.es
+tighturl.com
+tiny.cc
+tiny.pl
+tinyurl.com
+tnij.org
+to.ly
+tr.im
+
+# u
+
+u.nu
+ur1.ca
+url.ie
+urls.li
+urlcut.com
+urls.to
+
+# v
+
+vze.com
+
+# w
+
+wapurl.co.uk
+wyon.de
+
+# x 
+
+xrl.us
+
+# y
+
+yep.it
+
+# z
+
+zi.ma
