@@ -1,8 +1,9 @@
 #########################################################################
-
-I Hate URL Shorteners
-by: Pirat28
-
-URL list for the Pi-Hole ( https://pi-hole.net/ )
-
+#
+#  I Hate URL Shorteners
+# 
+# by: Pirat28
+# 
+# URL list for the Pi-Hole ( https://pi-hole.net/ )
+#
 #########################################################################
