@@ -95,6 +95,7 @@ iterasi.net
 # j
 
 just.as
+j.mp
 
 # k
 
@@ -180,6 +181,7 @@ vze.com
 
 wapurl.co.uk
 wyon.de
+www.bit.ly
 
 # x 
 
