@@ -131,6 +131,7 @@ pasted.co
 p.chilp.it
 po.st
 preview.tinyurl.com
+plu.sh
 
 # q
 
