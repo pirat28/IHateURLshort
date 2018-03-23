@@ -39,6 +39,7 @@ bit.do
 bit.ly
 budurl.co
 buff.ly
+bc.vc
 
 # c
 
@@ -47,6 +48,7 @@ cli.gs
 clickthru.ca
 clickmeter.com
 cort.as
+clicky.me
 
 # d
 
@@ -62,6 +64,7 @@ easyurl.net
 ebored.com
 echoz.com
 eepurl.com
+elbo.in
 
 # f
 
@@ -152,6 +155,8 @@ simurl.com
 sn.im
 snipr.com
 snipurl.com
+soo.gd
+s2r.co
 
 # t
 
@@ -173,6 +178,7 @@ url.ie
 urls.li
 urlcut.com
 urls.to
+ux9.de
 
 # v
 
