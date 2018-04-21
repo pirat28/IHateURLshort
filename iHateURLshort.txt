@@ -80,6 +80,7 @@ funurl.com
 go.budurl.co
 goshrink.com
 goo.gl
+gehzu.eu
 
 # h
 
@@ -109,6 +110,9 @@ kurzelinks.de
 
 linkbee.com
 linkbun.ch
+linkto.eu
+linkzu.eu
+lnkt.eu
 
 # m
 
