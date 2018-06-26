@@ -40,6 +40,7 @@ bit.ly
 budurl.co
 buff.ly
 bc.vc
+budurl.com
 
 # c
 
@@ -134,6 +135,7 @@ nsfw.in
 
 ogy,de
 ow.ly
+oe.cd
 
 # p
 
@@ -164,6 +166,9 @@ snipr.com
 snipurl.com
 soo.gd
 s2r.co
+salf.co
+shot.la
+Su.pr
 
 # t
 
