@@ -170,7 +170,8 @@ soo.gd
 s2r.co
 salf.co
 shot.la
-Su.pr
+su.pr
+short.surf
 
 # t
 
