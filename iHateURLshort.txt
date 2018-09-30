@@ -12,6 +12,8 @@
 0cn.de
 1sta.com
 1url.com
+1b.yt
+1w.tf
 24ex.com
 2fear.com
 2freedom.com
@@ -20,6 +22,11 @@
 2truth.com
 2tunes.com
 2tu.us
+2no.co
+2.run
+23o.net
+
+7i.fi
 
 # a
 
@@ -30,6 +37,7 @@ adjix.com
 alturl.com
 antiblog.com
 atu.ca
+ah.pe
 
 # b
 
@@ -79,6 +87,7 @@ firsturl.de
 firsturl.net
 fiurl.de
 funurl.com
+fly2.ws
 
 # g
 
@@ -100,6 +109,7 @@ idug.net
 is.gd
 iscool.net
 iterasi.net
+lnk.in
 
 # j
 
@@ -129,10 +139,13 @@ migre.me
 miniurl.fr
 mirrorz.com
 moourl.com
+mymst.com
 
 # n
 
 nsfw.in
+nn.nf
+ne1.net
 
 # o
 
@@ -147,14 +160,19 @@ p.chilp.it
 po.st
 preview.tinyurl.com
 plu.sh
+pnt.me
 
 # q
+
+qut.to
+qr.net
 
 # r
 
 readthis.ca
 redirects.ca
 ri.ms
+rt.tc
 
 # s
 
@@ -173,6 +191,9 @@ salf.co
 shot.la
 su.pr
 short.surf
+short4free.us
+www.short4free.us
+sn.vc
 
 # t
 
@@ -185,6 +206,8 @@ tinyurl.com
 tnij.org
 to.ly
 tr.im
+trdt.me
+t2m.io
 
 # u
 
@@ -195,6 +218,8 @@ urls.li
 urlcut.com
 urls.to
 ux9.de
+urlshortener.biz
+urlshortener.me
 
 # v
 
@@ -207,11 +232,13 @@ wapurl.co.uk
 wyon.de
 www.bit.ly
 wqd.nl
+w3t.org
 
 # x 
 
 xrl.us
 xn--kn8h.to
+www.x.se
 
 # y
 
