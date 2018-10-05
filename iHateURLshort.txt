@@ -208,6 +208,7 @@ to.ly
 tr.im
 trdt.me
 t2m.io
+tc.fr
 
 # u
 
