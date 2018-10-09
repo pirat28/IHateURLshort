@@ -209,6 +209,7 @@ tr.im
 trdt.me
 t2m.io
 tc.fr
+t.co
 
 # u
 
