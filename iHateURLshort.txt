@@ -38,6 +38,7 @@ alturl.com
 antiblog.com
 atu.ca
 ah.pe
+appz.by
 
 # b
 
@@ -61,6 +62,7 @@ clicky.me
 clc.to
 cutt.us
 cuteurl.co
+crackz.by
 
 # d
 
@@ -78,6 +80,7 @@ echoz.com
 eepurl.com
 elbo.in
 e.bw
+elite.to
 
 # f
 
@@ -88,6 +91,7 @@ firsturl.net
 fiurl.de
 funurl.com
 fly2.ws
+fx.to
 
 # g
 
@@ -95,6 +99,7 @@ go.budurl.co
 goshrink.com
 goo.gl
 gehzu.eu
+gfx.by
 
 # h
 
@@ -102,6 +107,7 @@ headplug.com
 hereweb.com
 hitart.com
 hurl.it
+hitz.to
 
 # i
 
@@ -166,6 +172,7 @@ pnt.me
 
 qut.to
 qr.net
+quality.by
 
 # r
 
@@ -173,6 +180,7 @@ readthis.ca
 redirects.ca
 ri.ms
 rt.tc
+redir.to
 
 # s
 
@@ -194,6 +202,7 @@ short.surf
 short4free.us
 www.short4free.us
 sn.vc
+stuff.by
 
 # t
 
@@ -210,6 +219,7 @@ trdt.me
 t2m.io
 tc.fr
 t.co
+t3.to
 
 # u
 
@@ -222,6 +232,8 @@ urls.to
 ux9.de
 urlshortener.biz
 urlshortener.me
+upload.by
+user.by
 
 # v
 
@@ -235,6 +247,10 @@ wyon.de
 www.bit.ly
 wqd.nl
 w3t.org
+war3z.to
+warez.to
+warez.by
+
 
 # x 
 
