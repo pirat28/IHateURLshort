@@ -10,6 +10,7 @@
 #0 
 
 0cn.de
+9mp.com
 1sta.com
 1url.com
 1b.yt
@@ -18,6 +19,7 @@
 2fear.com
 2freedom.com
 2hell.com
+2tu.us
 2savvy.com
 2truth.com
 2tunes.com
@@ -25,12 +27,19 @@
 2no.co
 2.run
 23o.net
-
+2ya.com
+0rz.tw
 7i.fi
+1kh.de
+2.gp
+3le.ru
+420.tw
+7.ly
+9en.us
+9url.in
 
 # a
 
-2ya.com
 a.gg
 adf.ly
 adjix.com
@@ -100,6 +109,12 @@ goshrink.com
 goo.gl
 gehzu.eu
 gfx.by
+gu.nu
+got.to
+git.io
+gca.sh
+game-url.com
+
 
 # h
 
@@ -107,7 +122,15 @@ headplug.com
 hereweb.com
 hitart.com
 hurl.it
+hex.io
 hitz.to
+hide.su
+haa.su
+hec.su
+hideurl.biz
+hit.kg
+ho.pe
+hop.kz
 
 # i
 
@@ -115,17 +138,24 @@ idug.net
 is.gd
 iscool.net
 iterasi.net
-lnk.in
+ipkill.org
+index.st
+idek.net
+i2links.com
 
 # j
 
 just.as
 j.mp
+jdem.cz
 
 # k
 
 korta.nu
+kuerzer.de
+kl.am
 kurzelinks.de
+ks.gs
 
 # l
 
@@ -136,6 +166,7 @@ linkzu.eu
 lnkt.eu
 lista.link
 lnkto.net
+lnk.in
 
 # m
 
@@ -261,7 +292,12 @@ www.x.se
 # y
 
 yep.it
+yi.pe
 
 # z
 
 zi.ma
+zzb.bz
+zud.me
+zipurl.fr
+zxc9.com
