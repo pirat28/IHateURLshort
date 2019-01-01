@@ -266,10 +266,12 @@ urlshortener.me
 upload.by
 user.by
 
-# v
+# v done
 
+v.gd
 vze.com
 vu.fr
+vurl.com
 
 # w
 
@@ -285,6 +287,8 @@ warez.by
 
 # x 
 
+x.co
+xlurl.de
 xrl.us
 xn--kn8h.to
 www.x.se
@@ -293,6 +297,10 @@ www.x.se
 
 yep.it
 yi.pe
+yourls.org
+yuarel.com
+yy7.com
+yyuq.com
 
 # z
 
@@ -300,4 +308,7 @@ zi.ma
 zzb.bz
 zud.me
 zipurl.fr
+zud.me
+zurl.ws
 zxc9.com
+zzb.bz
