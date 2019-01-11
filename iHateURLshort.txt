@@ -69,6 +69,7 @@ clickmeter.com
 cort.as
 clicky.me
 clc.to
+clc.am
 cutt.us
 cuteurl.co
 crackz.by
@@ -251,6 +252,7 @@ t2m.io
 tc.fr
 t.co
 t3.to
+to.click
 
 # u
 
