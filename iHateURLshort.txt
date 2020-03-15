@@ -4,15 +4,19 @@
 ### by: Pirat28
 ###
 ### URL list for the Pi-Hole 
+###
+### Last update: 15th of March 2020
 ### 
 ######################################
 
 #0 
 
 0cn.de
-9mp.com
+0rz.tw
+1link.in
 1sta.com
 1url.com
+1wrd.org
 1b.yt
 1w.tf
 24ex.com
@@ -23,24 +27,28 @@
 2savvy.com
 2truth.com
 2tunes.com
-2tu.us
 2no.co
 2.run
 23o.net
 2ya.com
-0rz.tw
-7i.fi
+2big.at
+2pl.us
+2ya.com7i.fi
 1kh.de
 2.gp
 3le.ru
 420.tw
+4url.cc
+6url.com
 7.ly
 9en.us
 9url.in
+9mp.com
 
 # a
 
 a.gg
+a.nf
 adf.ly
 adjix.com
 alturl.com
@@ -48,17 +56,26 @@ antiblog.com
 atu.ca
 ah.pe
 appz.by
+a2a.me
+abbrr.com
+adcrun.ch
 
 # b
 
 b23.ru
+bacn.me
+beam.to
+bit.do
 bigbig.com
 bit.do
 bit.ly
-budurl.co
 buff.ly
 bc.vc
 budurl.com
+bkite.com
+bloat.me
+buk.me
+burnurl.com
 
 # c
 
@@ -71,8 +88,13 @@ clicky.me
 clc.to
 clc.am
 cutt.us
-cuteurl.co
+cuteurl.com
 crackz.by
+c-o.in
+chogoon.com
+clck.ru
+codimenu.com
+cuturl.com
 
 # d
 
@@ -81,6 +103,10 @@ dfl8.me
 dy.fi
 digg.com
 doiop.com
+decenturl.com
+digbig.com
+dsn.io
+dwarfurl.com
 
 # e
 
@@ -91,6 +117,9 @@ eepurl.com
 elbo.in
 e.bw
 elite.to
+easyuri.com
+esyurl.com
+ewerl.com
 
 # f
 
@@ -102,6 +131,14 @@ fiurl.de
 funurl.com
 fly2.ws
 fx.to
+ff.im
+fhurl.com
+fire.to
+firsturl.de
+flic.kr
+fon.gs
+fur.ly
+fwd4.me
 
 # g
 
@@ -115,7 +152,15 @@ got.to
 git.io
 gca.sh
 game-url.com
-
+ge.tt
+gl.am
+gmy.su
+go.9nl.com
+go2.me
+go2cut.com
+gowat.ch
+gri.ms
+gurl.es
 
 # h
 
@@ -132,6 +177,13 @@ hideurl.biz
 hit.kg
 ho.pe
 hop.kz
+hellotxt.com
+hover.com
+href.in
+htxt.it
+hugeurl.com
+hurl.me
+hurl.ws
 
 # i
 
@@ -143,12 +195,22 @@ ipkill.org
 index.st
 idek.net
 i2links.com
+icanhaz.com
+ift.tt
+incu.ca
+inreply.to
+iterasi.net
+itp24.com
+ity.im
 
 # j
 
 just.as
 j.mp
 jdem.cz
+jall.al
+jijr.com
+jmp2.net
 
 # k
 
@@ -157,6 +219,10 @@ kuerzer.de
 kl.am
 kurzelinks.de
 ks.gs
+kissa.be
+klck.me
+korta.nu
+krunchd.com
 
 # l
 
@@ -168,6 +234,18 @@ lnkt.eu
 lista.link
 lnkto.net
 lnk.in
+lc.cx
+liip.to
+liltext.com
+lin.cr
+liurl.cn
+ln-s.net
+ln-s.ru
+lnk.gd
+loopt.us
+lru.jp
+lt.tl
+lurl.no
 
 # m
 
@@ -178,18 +256,26 @@ miniurl.fr
 mirrorz.com
 moourl.com
 mymst.com
+marketclan.com
+minilien.com
+miniurl.com
 
 # n
 
 nsfw.in
 nn.nf
 ne1.net
+njx.me
+notlong.com
+nsfw.in
 
 # o
 
 ogy,de
 ow.ly
 oe.cd
+o-x.fr
+om.ly
 
 # p
 
@@ -199,12 +285,24 @@ po.st
 preview.tinyurl.com
 plu.sh
 pnt.me
+p-it.co.uk
+pd.am
+pic.gd
+ping.fm
+piurl.com
+poprl.com
+post.ly
+posted.at
+profile.to
 
 # q
 
 qut.to
 qr.net
 quality.by
+qicute.com
+qlnk.net
+quip-art.com
 
 # r
 
@@ -213,6 +311,15 @@ redirects.ca
 ri.ms
 rt.tc
 redir.to
+raic.hu
+rb6.me
+redirx.com
+reducelnk.com
+rickroll.it
+riz.gd
+rsmonkey.com
+ru.ly
+rubyurl.com
 
 # s
 
@@ -235,6 +342,31 @@ short4free.us
 www.short4free.us
 sn.vc
 stuff.by
+s.ggwp.be
+s7y.us
+safe.mn
+sharein.com
+sharetabs.com
+short.ie
+short.to
+shortlinks.co.uk
+shortna.me
+shoturl.us
+shrinkify.com
+shrinkster.com
+shrinkurl.us
+shrten.com
+shrunkin.com
+shw.me
+simurl.com
+smarturl.it
+snurl.com
+sp2.ro
+spedr.com
+sqrl.it
+starturl.com
+sturly.com
+su.pr
 
 # t
 
@@ -253,6 +385,27 @@ tc.fr
 t.co
 t3.to
 to.click
+tcrn.ch
+tiny.tw
+tiny123.com
+tinyarro.ws
+tinytw.it
+tinyuri.ca
+tinyvid.io
+tnij.org
+tnurl.net
+togoto.us
+tr.my
+traceurl.com
+turo.us
+tweetburner.com
+twirl.at
+twit.ac
+twitterpan.com
+twitthis.com
+twiturl.de
+twurl.cc
+twurl.nl
 
 # u
 
@@ -267,6 +420,25 @@ urlshortener.biz
 urlshortener.me
 upload.by
 user.by
+u.mavrev.com
+u6e.de
+ub0.cc
+untiny.me
+updating.me
+url.co.uk
+url4.eu
+urlao.com
+urlbrief.com
+urlcover.com
+urlcut.com
+urlenco.de
+urlhawk.com
+urlkiss.com
+urlot.com
+urlpire.com
+urlx.ie
+urlx.org
+urlzen.com
 
 # v done
 
@@ -274,6 +446,8 @@ v.gd
 vze.com
 vu.fr
 vurl.com
+virl.com
+vl.am
 
 # w
 
@@ -285,7 +459,10 @@ w3t.org
 war3z.to
 warez.to
 warez.by
-
+webcut.net
+wipi.es
+wowurl.com
+wp.me
 
 # x 
 
@@ -294,6 +471,13 @@ xlurl.de
 xrl.us
 xn--kn8h.to
 www.x.se
+x.se
+xaddr.com
+xeeurl.com
+xr.com
+xrl.in
+xurl.jp
+xzb.cc
 
 # y
 
@@ -303,6 +487,10 @@ yourls.org
 yuarel.com
 yy7.com
 yyuq.com
+y6p.ru
+yfrog.com
+yourls.sci.io
+yweb.com
 
 # z
 
@@ -314,3 +502,6 @@ zud.me
 zurl.ws
 zxc9.com
 zzb.bz
+zi.pe
+zipmyurl.com
+zz.gd
