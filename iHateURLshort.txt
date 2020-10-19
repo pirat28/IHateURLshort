@@ -297,6 +297,7 @@ poprl.com
 post.ly
 posted.at
 profile.to
+marie.page.link
 
 # q
 
@@ -370,6 +371,7 @@ sqrl.it
 starturl.com
 sturly.com
 su.pr
+surl.me
 
 # t
 
